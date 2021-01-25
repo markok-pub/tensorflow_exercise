@@ -1,7 +1,7 @@
 # tensorflow_exercise
 Exercies in tensorflow to learn the framework
 
-Ecercises in tensorflow and keras to learn the basics of the framework.
+Tensorflow, Keras, OpenAI GYM
 
 Includes:
 1. Linear Regression to determine survival aboard titanic -> tf.estimator.LinearClassifier
